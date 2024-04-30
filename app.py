@@ -1,4 +1,9 @@
 # https://realpython.com/python-dash/
+
+# git add *
+# git commit -m "first app"
+# git push
+
 # cd C:\Users\ngoun\Downloads\python_cours\pratique_bambei\dash_test
 # python311 -m virtualenv C:\Users\ngoun\Documents\dev_ops_all\python_soft\mes_envs\env_plotly_311
 # C:\Users\ngoun\Documents\dev_ops_all\python_soft\mes_envs\env_plotly_311\Scripts\activate.ps1
